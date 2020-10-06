@@ -70,6 +70,7 @@ ul.intpara{
 
 .keysketch {
     width: 70%;
+    height: auto;
 }
 
 .caption {
@@ -147,6 +148,7 @@ ul.intpara{
 
 .personas {
     width: 80%;
+    height: auto;
     border-radius: 5px;
     background-color: white;
     margin: 10px;
@@ -155,6 +157,7 @@ ul.intpara{
 
 .storyboard {
     width: 80%;
+    height: auto;
     margin-bottom: 20px;
 }
 
