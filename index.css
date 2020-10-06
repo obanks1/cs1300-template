@@ -261,15 +261,15 @@ ul.intpara{
 
     .keysketch {
         width: 90%;
-        max-height: 200px;
+        max-height: 150px;
     }
 
     .personas {
-        max-height: 500px;
+        max-height: 300px;
     }
 
     .storyboard {
-        max-height: 400px;
+        max-height: 200px;
     }
 
     .caption {
