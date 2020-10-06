@@ -69,8 +69,8 @@ ul.intpara{
 }
 
 .keysketch {
-    width: 70%!important;
-    height: auto!important;
+    width: 70%;
+    height: auto;
 }
 
 .caption {
@@ -147,8 +147,8 @@ ul.intpara{
 }
 
 .personas {
-    width: 80%!important;
-    height: auto!important;
+    width: 80%;
+    height: auto;
     border-radius: 5px;
     background-color: white;
     margin: 10px;
@@ -156,8 +156,8 @@ ul.intpara{
 }
 
 .storyboard {
-    width: 80%!important;
-    height: auto!important;
+    width: 80%;
+    height: auto;
     margin-bottom: 20px;
 }
 
@@ -260,7 +260,16 @@ ul.intpara{
     }
 
     .keysketch {
-        width: 90%
+        width: 90%;
+        max-height: 200px;
+    }
+
+    .personas {
+        max-height: 500px;
+    }
+
+    .storyboard {
+        max-height: 400px;
     }
 
     .caption {
